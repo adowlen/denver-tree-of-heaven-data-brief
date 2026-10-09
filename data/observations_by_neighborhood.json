@@ -1,0 +1,578 @@
+[
+ {
+  "neighborhood": "Lincoln Park",
+  "private": 15,
+  "institutional": 6,
+  "government": 2,
+  "park": 0,
+  "street_row": 22,
+  "total": 45
+ },
+ {
+  "neighborhood": "City Park",
+  "private": 4,
+  "institutional": 4,
+  "government": 15,
+  "park": 2,
+  "street_row": 3,
+  "total": 28
+ },
+ {
+  "neighborhood": "Five Points",
+  "private": 7,
+  "institutional": 5,
+  "government": 1,
+  "park": 1,
+  "street_row": 13,
+  "total": 27
+ },
+ {
+  "neighborhood": "Baker",
+  "private": 7,
+  "institutional": 0,
+  "government": 0,
+  "park": 1,
+  "street_row": 12,
+  "total": 20
+ },
+ {
+  "neighborhood": "University Hills",
+  "private": 4,
+  "institutional": 0,
+  "government": 2,
+  "park": 0,
+  "street_row": 14,
+  "total": 20
+ },
+ {
+  "neighborhood": "Congress Park",
+  "private": 5,
+  "institutional": 0,
+  "government": 1,
+  "park": 0,
+  "street_row": 11,
+  "total": 17
+ },
+ {
+  "neighborhood": "Capitol Hill",
+  "private": 7,
+  "institutional": 3,
+  "government": 1,
+  "park": 0,
+  "street_row": 6,
+  "total": 17
+ },
+ {
+  "neighborhood": "Union Station",
+  "private": 2,
+  "institutional": 3,
+  "government": 0,
+  "park": 4,
+  "street_row": 8,
+  "total": 17
+ },
+ {
+  "neighborhood": "Auraria",
+  "private": 5,
+  "institutional": 2,
+  "government": 2,
+  "park": 0,
+  "street_row": 6,
+  "total": 15
+ },
+ {
+  "neighborhood": "Whittier",
+  "private": 8,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 7,
+  "total": 15
+ },
+ {
+  "neighborhood": "Speer",
+  "private": 8,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 5,
+  "total": 13
+ },
+ {
+  "neighborhood": "Highland",
+  "private": 6,
+  "institutional": 1,
+  "government": 0,
+  "park": 0,
+  "street_row": 6,
+  "total": 13
+ },
+ {
+  "neighborhood": "Sunnyside",
+  "private": 9,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 4,
+  "total": 13
+ },
+ {
+  "neighborhood": "City Park West",
+  "private": 4,
+  "institutional": 1,
+  "government": 0,
+  "park": 0,
+  "street_row": 7,
+  "total": 12
+ },
+ {
+  "neighborhood": "Civic Center",
+  "private": 5,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 5,
+  "total": 10
+ },
+ {
+  "neighborhood": "East Colfax",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 7,
+  "total": 9
+ },
+ {
+  "neighborhood": "Berkeley",
+  "private": 6,
+  "institutional": 0,
+  "government": 2,
+  "park": 0,
+  "street_row": 1,
+  "total": 9
+ },
+ {
+  "neighborhood": "Central Park",
+  "private": 1,
+  "institutional": 1,
+  "government": 2,
+  "park": 3,
+  "street_row": 2,
+  "total": 9
+ },
+ {
+  "neighborhood": "CBD",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 7,
+  "total": 8
+ },
+ {
+  "neighborhood": "Jefferson Park",
+  "private": 1,
+  "institutional": 0,
+  "government": 2,
+  "park": 0,
+  "street_row": 5,
+  "total": 8
+ },
+ {
+  "neighborhood": "West Highland",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 5,
+  "total": 8
+ },
+ {
+  "neighborhood": "Sloan Lake",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 6,
+  "street_row": 0,
+  "total": 7
+ },
+ {
+  "neighborhood": "Overland",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 5,
+  "total": 7
+ },
+ {
+  "neighborhood": "Chaffee Park",
+  "private": 6,
+  "institutional": 1,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 7
+ },
+ {
+  "neighborhood": "Washington Park West",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 4,
+  "total": 7
+ },
+ {
+  "neighborhood": "Villa Park",
+  "private": 4,
+  "institutional": 2,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 7
+ },
+ {
+  "neighborhood": "North Park Hill",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 5,
+  "total": 7
+ },
+ {
+  "neighborhood": "Cheesman Park",
+  "private": 4,
+  "institutional": 0,
+  "government": 1,
+  "park": 0,
+  "street_row": 1,
+  "total": 6
+ },
+ {
+  "neighborhood": "Cole",
+  "private": 2,
+  "institutional": 0,
+  "government": 1,
+  "park": 0,
+  "street_row": 3,
+  "total": 6
+ },
+ {
+  "neighborhood": "Hampden",
+  "private": 4,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 6
+ },
+ {
+  "neighborhood": "Barnum",
+  "private": 0,
+  "institutional": 0,
+  "government": 2,
+  "park": 3,
+  "street_row": 0,
+  "total": 5
+ },
+ {
+  "neighborhood": "South Park Hill",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 5
+ },
+ {
+  "neighborhood": "West Colfax",
+  "private": 0,
+  "institutional": 0,
+  "government": 2,
+  "park": 0,
+  "street_row": 3,
+  "total": 5
+ },
+ {
+  "neighborhood": "Regis",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 2,
+  "street_row": 0,
+  "total": 5
+ },
+ {
+  "neighborhood": "Northeast Park Hill",
+  "private": 5,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 5
+ },
+ {
+  "neighborhood": "Virginia Village",
+  "private": 4,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 5
+ },
+ {
+  "neighborhood": "University Park",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 3,
+  "total": 4
+ },
+ {
+  "neighborhood": "Hampden South",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 4
+ },
+ {
+  "neighborhood": "Elyria Swansea",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 1,
+  "street_row": 0,
+  "total": 4
+ },
+ {
+  "neighborhood": "Cherry Creek",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 3,
+  "total": 4
+ },
+ {
+  "neighborhood": "University",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 4
+ },
+ {
+  "neighborhood": "Mar Lee",
+  "private": 2,
+  "institutional": 1,
+  "government": 0,
+  "park": 1,
+  "street_row": 0,
+  "total": 4
+ },
+ {
+  "neighborhood": "Globeville",
+  "private": 3,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 4
+ },
+ {
+  "neighborhood": "Hale",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 4
+ },
+ {
+  "neighborhood": "Platt Park",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 3
+ },
+ {
+  "neighborhood": "Sun Valley",
+  "private": 0,
+  "institutional": 0,
+  "government": 1,
+  "park": 0,
+  "street_row": 2,
+  "total": 3
+ },
+ {
+  "neighborhood": "College View - South Platte",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 3
+ },
+ {
+  "neighborhood": "Skyland",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 3
+ },
+ {
+  "neighborhood": "Washington Park",
+  "private": 0,
+  "institutional": 0,
+  "government": 1,
+  "park": 1,
+  "street_row": 1,
+  "total": 3
+ },
+ {
+  "neighborhood": "Athmar Park",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 2,
+  "street_row": 0,
+  "total": 2
+ },
+ {
+  "neighborhood": "Hilltop",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 2
+ },
+ {
+  "neighborhood": "Montclair",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 2
+ },
+ {
+  "neighborhood": "Lowry Field",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 2
+ },
+ {
+  "neighborhood": "Montbello",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 2
+ },
+ {
+  "neighborhood": "Ruby Hill",
+  "private": 2,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 2
+ },
+ {
+  "neighborhood": "Westwood",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 2
+ },
+ {
+  "neighborhood": "Fort Logan",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 2,
+  "total": 2
+ },
+ {
+  "neighborhood": "Bear Valley",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 1
+ },
+ {
+  "neighborhood": "Valverde",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 1
+ },
+ {
+  "neighborhood": "Clayton",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 1
+ },
+ {
+  "neighborhood": "Belcaro",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 1
+ },
+ {
+  "neighborhood": "Barnum West",
+  "private": 0,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 1,
+  "total": 1
+ },
+ {
+  "neighborhood": "Windsor",
+  "private": 0,
+  "institutional": 1,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 1
+ },
+ {
+  "neighborhood": "Cory - Merrill",
+  "private": 1,
+  "institutional": 0,
+  "government": 0,
+  "park": 0,
+  "street_row": 0,
+  "total": 1
+ }
+]

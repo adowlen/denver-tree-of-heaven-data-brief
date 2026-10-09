@@ -1,0 +1,344 @@
+{
+ "open_rate_by_neighborhood": [
+  {
+   "n": "University",
+   "rate": 0.7808219178082192,
+   "cases": 73
+  },
+  {
+   "n": "Mar Lee",
+   "rate": 0.8671875,
+   "cases": 128
+  },
+  {
+   "n": "Montbello",
+   "rate": 0.8,
+   "cases": 95
+  },
+  {
+   "n": "Villa Park",
+   "rate": 0.6976744186046512,
+   "cases": 43
+  },
+  {
+   "n": "Sloan Lake",
+   "rate": 0.7735849056603774,
+   "cases": 106
+  },
+  {
+   "n": "Platt Park",
+   "rate": 0.6785714285714286,
+   "cases": 56
+  },
+  {
+   "n": "Country Club",
+   "rate": 0.6071428571428571,
+   "cases": 28
+  },
+  {
+   "n": "Cherry Creek",
+   "rate": 0.5897435897435898,
+   "cases": 39
+  },
+  {
+   "n": "Speer",
+   "rate": 0.6716417910447762,
+   "cases": 134
+  },
+  {
+   "n": "Harvey Park",
+   "rate": 0.9336609336609336,
+   "cases": 407
+  },
+  {
+   "n": "Congress Park",
+   "rate": 0.7252747252747253,
+   "cases": 91
+  },
+  {
+   "n": "East Colfax",
+   "rate": 0.7627118644067796,
+   "cases": 59
+  },
+  {
+   "n": "North Park Hill",
+   "rate": 0.7126436781609196,
+   "cases": 87
+  },
+  {
+   "n": "Cory - Merrill",
+   "rate": 0.7916666666666666,
+   "cases": 48
+  },
+  {
+   "n": "Elyria Swansea",
+   "rate": 0.6486486486486487,
+   "cases": 37
+  },
+  {
+   "n": "West Colfax",
+   "rate": 0.7513812154696132,
+   "cases": 181
+  },
+  {
+   "n": "Highland",
+   "rate": 0.7731481481481481,
+   "cases": 216
+  },
+  {
+   "n": "Jefferson Park",
+   "rate": 0.6097560975609756,
+   "cases": 41
+  },
+  {
+   "n": "Globeville",
+   "rate": 0.5483870967741935,
+   "cases": 31
+  },
+  {
+   "n": "Washington Park",
+   "rate": 0.6029411764705882,
+   "cases": 68
+  },
+  {
+   "n": "Berkeley",
+   "rate": 0.7679558011049724,
+   "cases": 181
+  },
+  {
+   "n": "Westwood",
+   "rate": 0.8418079096045198,
+   "cases": 177
+  },
+  {
+   "n": "Ruby Hill",
+   "rate": 0.7959183673469388,
+   "cases": 49
+  },
+  {
+   "n": "Hilltop",
+   "rate": 0.7115384615384616,
+   "cases": 52
+  },
+  {
+   "n": "West Highland",
+   "rate": 0.7814569536423841,
+   "cases": 151
+  },
+  {
+   "n": "Montclair",
+   "rate": 0.6885245901639344,
+   "cases": 61
+  },
+  {
+   "n": "Barnum West",
+   "rate": 0.7272727272727273,
+   "cases": 55
+  },
+  {
+   "n": "Washington Virginia Vale",
+   "rate": 0.6901408450704225,
+   "cases": 71
+  },
+  {
+   "n": "University Park",
+   "rate": 0.7111111111111111,
+   "cases": 45
+  },
+  {
+   "n": "Cheesman Park",
+   "rate": 0.6326530612244898,
+   "cases": 49
+  },
+  {
+   "n": "Capitol Hill",
+   "rate": 0.6046511627906976,
+   "cases": 43
+  },
+  {
+   "n": "Hampden South",
+   "rate": 0.75,
+   "cases": 44
+  },
+  {
+   "n": "Belcaro",
+   "rate": 0.48,
+   "cases": 25
+  },
+  {
+   "n": "Goldsmith",
+   "rate": 0.525,
+   "cases": 40
+  },
+  {
+   "n": "Whittier",
+   "rate": 0.7380952380952381,
+   "cases": 42
+  },
+  {
+   "n": "University Hills",
+   "rate": 0.6724137931034483,
+   "cases": 58
+  },
+  {
+   "n": "College View - South Platte",
+   "rate": 0.6590909090909091,
+   "cases": 44
+  },
+  {
+   "n": "Chaffee Park",
+   "rate": 0.8148148148148148,
+   "cases": 54
+  },
+  {
+   "n": "Baker",
+   "rate": 0.8050847457627118,
+   "cases": 118
+  },
+  {
+   "n": "Hampden",
+   "rate": 0.684931506849315,
+   "cases": 73
+  },
+  {
+   "n": "Regis",
+   "rate": 0.717948717948718,
+   "cases": 39
+  },
+  {
+   "n": "Virginia Village",
+   "rate": 0.6301369863013698,
+   "cases": 73
+  },
+  {
+   "n": "Cole",
+   "rate": 0.6533333333333333,
+   "cases": 75
+  },
+  {
+   "n": "City Park",
+   "rate": 0.5454545454545454,
+   "cases": 22
+  },
+  {
+   "n": "Sunnyside",
+   "rate": 0.7723880597014925,
+   "cases": 268
+  },
+  {
+   "n": "City Park West",
+   "rate": 0.7948717948717948,
+   "cases": 39
+  },
+  {
+   "n": "Valverde",
+   "rate": 0.8913043478260869,
+   "cases": 46
+  },
+  {
+   "n": "Northeast Park Hill",
+   "rate": 0.746031746031746,
+   "cases": 63
+  },
+  {
+   "n": "Fort Logan",
+   "rate": 0.851063829787234,
+   "cases": 47
+  },
+  {
+   "n": "Gateway - Green Valley Ranch",
+   "rate": 0.6865671641791045,
+   "cases": 67
+  },
+  {
+   "n": "Barnum",
+   "rate": 0.7647058823529411,
+   "cases": 51
+  },
+  {
+   "n": "Hale",
+   "rate": 0.6615384615384615,
+   "cases": 65
+  },
+  {
+   "n": "Athmar Park",
+   "rate": 0.8558558558558559,
+   "cases": 111
+  },
+  {
+   "n": "Skyland",
+   "rate": 0.6470588235294118,
+   "cases": 34
+  },
+  {
+   "n": "Five Points",
+   "rate": 0.8431372549019608,
+   "cases": 153
+  },
+  {
+   "n": "North Capitol Hill",
+   "rate": 0.5925925925925926,
+   "cases": 27
+  },
+  {
+   "n": "South Park Hill",
+   "rate": 0.5853658536585366,
+   "cases": 82
+  },
+  {
+   "n": "Clayton",
+   "rate": 0.7586206896551724,
+   "cases": 29
+  },
+  {
+   "n": "Washington Park West",
+   "rate": 0.7941176470588235,
+   "cases": 68
+  },
+  {
+   "n": "Overland",
+   "rate": 0.8205128205128205,
+   "cases": 39
+  },
+  {
+   "n": "Central Park",
+   "rate": 0.6346153846153846,
+   "cases": 52
+  },
+  {
+   "n": "Bear Valley",
+   "rate": 0.75,
+   "cases": 44
+  },
+  {
+   "n": "Civic Center",
+   "rate": 0.875,
+   "cases": 24
+  },
+  {
+   "n": "Lincoln Park",
+   "rate": 0.75,
+   "cases": 32
+  },
+  {
+   "n": "Harvey Park South",
+   "rate": 0.8974358974358975,
+   "cases": 78
+  },
+  {
+   "n": "Marston",
+   "rate": 0.8085106382978723,
+   "cases": 47
+  },
+  {
+   "n": "Wellshire",
+   "rate": 0.8333333333333334,
+   "cases": 24
+  },
+  {
+   "n": "Rosedale",
+   "rate": 0.7142857142857143,
+   "cases": 28
+  }
+ ]
+}
