@@ -3,15 +3,33 @@ Researched 2026-10-08. Factual summary only; no recommendations.
 
 ## 1. Colorado noxious weed list — tree of heaven status
 
-**Tree of heaven is NOT on Colorado's List A, B, or C.** It is on the state's **Watch List**
-(advisory only — no legal control requirement). The Colorado Department of Agriculture's
-"Weeds 101" page names it explicitly: "A plant like Tree-of-heaven is on the Watch List."
+**CORRECTION (2026-10-08, verified against CDA's current official list page): tree of heaven
+IS on Colorado's List C** — *Ailanthus altissima* appears under "List C Species" at
+https://ag.colorado.gov/conservation/noxious-weeds/colorado-noxious-weed-list. An earlier
+version of this research (same day) incorrectly placed it on the Watch List, based on CDA's
+"Weeds 101" explainer page, which still uses tree of heaven as its Watch List example but is
+stale. History: Watch List → CDA recommended List C (~2022, Morning Ag Clips) → now List C
+(confirmed on the live official list; also reflected in Chaffee County's 2025 republication).
 
-- Watch List purpose: advise/educate the public and land managers about potential threats;
-  encourage identification and reporting of new populations (to EDDMapS) so the state can decide
-  whether the species should be designated A, B, or C. No legal mandate to control.
-- The official lists live in the Rules Pertaining to the Administration and Enforcement of the
-  Colorado Noxious Weed Act, 8 CCR 1206-2.
+**What List C means (per CDA):** species widespread and well-established; statewide eradication
+impractical. Control is *recommended* by the state but *not required* by state law. Local
+governments (counties/municipalities) have authority to decide whether to require management —
+and a local governing body may add species or upgrade classifications for local needs. The
+state provides education, research, and biological control resources to jurisdictions that
+choose to act. Sale/offer for sale/intentional growing is illegal (as for all listed species).
+
+**Funding consequence:** per CDA's grant FAQ, projects focused *only* on a List C species are
+NOT eligible for state Noxious Weed Program annual grants (a List C component can ride along
+in a project targeting List A/B species). List C status locks volunteer groups out of the
+state funding stream.
+
+**Plausible upgrade:** List B. List A is for rare/newly arrived species (does not fit — tree of
+heaven is entrenched in the Denver metro). List C creates no mandates. List B's "discrete
+statewide distribution" criterion fits a species concentrated in urban areas rather than
+statewide, and would trigger mandatory control on all private lands plus grant eligibility.
+
+**Denver-specific note:** Denver is a combined city-county and can require management of List C
+species locally without any state action.
 
 **What the lists mean (per CDA):**
 - **List A — Eradication (highest priority):** newly arrived / uncommon / limited populations.

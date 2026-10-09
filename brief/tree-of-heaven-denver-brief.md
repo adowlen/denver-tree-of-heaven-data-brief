@@ -4,7 +4,7 @@
 
 ## The bottom line
 
-Denver has a tree-of-heaven problem it cannot spray its way out of. At least **43% of reported trees stand on privately owned land** — and the real share is higher, because nobody photographs the trees in their neighbor's backyard. The city closes only **1 in 4 weed complaints**. And the species sits on Colorado's official **Watch List**: the state has flagged the threat and stopped there. Eight other states list it as a noxious weed. Colorado should join them.
+Denver has a tree-of-heaven problem it cannot spray its way out of. At least **43% of reported trees stand on privately owned land** — and the real share is higher, because nobody photographs the trees in their neighbor's backyard. The city closes only **1 in 4 weed complaints**. And the species sits on Colorado's **List C**: the weakest regulatory tier, which recommends control and requires nothing. Eight other states list it as a noxious weed. Colorado should strengthen its listing.
 
 ## Finding 1: Nearly half the reported trees are on private land — the true share is higher
 
@@ -37,21 +37,25 @@ The geography is stark. Worst performers (≥20 cases): Harvey Park **93%** open
 
 ![311 open rate by category](charts/311_open_rate_by_category.png)
 
-## Finding 4: The case for listing
+## Finding 4: The case for a stronger listing
 
-**Colorado already knows.** Tree of heaven isn't merely unlisted — it sits on the Colorado Department of Agriculture's **Watch List**: species the state flags as threats while requiring nothing. That is the entire policy argument in one fact.
+**Colorado already lists it — at the weakest tier.** Tree of heaven sits on the Colorado Department of Agriculture's **List C**: species so widespread the state has given up on eradication. List C means control is *recommended* but not *required* — of anyone, anywhere. The state provides education and research; enforcement is optional and local. That is the entire policy argument in one fact: the designation exists, and it does nothing.
+
+**List C is also a funding dead end.** State noxious-weed grant money cannot go to projects targeting only a List C species. Volunteer groups doing this work are locked out of the funding stream by the classification itself.
 
 **Colorado would be joining a crowd, not going rogue.** California, Connecticut, Massachusetts, New Hampshire, Vermont, Oregon, Washington, and New Mexico all list it.
 
-**Listing is the private-property tool.** Under the Colorado Noxious Weed Act, a List B designation means mandatory control on *all* private lands. Ignore the notice and the county does the work, liens the property for the cost plus 20%, and can levy $500–$1,000 per violation. Without listing, none of that machinery exists for this species.
+**List B is the private-property tool.** Under the Colorado Noxious Weed Act, a List B designation means mandatory control on *all* private lands. Ignore the notice and the county does the work, liens the property for the cost plus 20%, and can levy $500–$1,000 per violation. List C unlocks none of that machinery.
+
+**But Denver doesn't have to wait for the state.** Colorado law gives counties and municipalities authority to require management of List C species locally — and to upgrade classifications for local needs. Denver, as a combined city-county, could mandate tree-of-heaven control tomorrow without anyone in Lakewood lifting a finger.
 
 **The lanternfly clock is ticking.** Spotted lanternfly — whose preferred host the state ag department itself identifies as tree of heaven — has zero confirmed Colorado detections, but it's in Iowa and Illinois. That's a "when, not if" argument for acting before the host network matters.
 
-**Denver has the machinery but not the hook.** The city's ZNIS inspectors can already do notice → 10 days → clear → bill → lien for vegetation violations. But because tree of heaven isn't a listed noxious weed, enforcement leans on vaguer nuisance provisions — the same pipeline that leaves 75% of weed complaints unclosed.
+**Denver has the machinery but not the mandate.** The city's ZNIS inspectors can already do notice → 10 days → clear → bill → lien for vegetation violations. But List C imposes no control requirement, so enforcement leans on vaguer nuisance provisions — the same pipeline that leaves 75% of weed complaints unclosed.
 
 ## What would actually work
 
-1. **List it (List B).** Unlocks the only legal framework that reaches private land at scale.
+1. **Upgrade to List B (or Denver acts alone).** List B unlocks the only legal framework that reaches private land at scale — plus state grant eligibility. Alternatively, Denver can require List C management locally right now; no state action needed.
 2. **Fund the unglamorous part.** Volunteer treatment days with owner permission; free herbicide kits; cost-share for professional removal of large seed-source females.
 3. **Fix the 311 pipeline.** A 75% unclosed rate for weed violations means the existing system isn't functioning as an enforcement tool, whatever the statute says.
 4. **Kill the mothers first.** Female trees are seed factories; every large female removed prevents thousands of seedlings. The observation data can prioritize them.
@@ -63,4 +67,6 @@ The geography is stark. Worst performers (≥20 cases): Harvey Park **93%** open
 - **Bias:** presence-only data; heavy observer bias (top 4 contributors made ~180 of 619 iNaturalist observations); hotspots partly measure where enthusiasts walk. Time trends conflate observer effort with actual spread.
 - **311:** rolling 12 months of Denver 311 service requests; "open" means no close date recorded — some may be resolved but administratively unclosed. The category contrast (75% vs 3%) suggests this doesn't explain the pattern away. Neighborhood field was empty in the source; neighborhoods assigned by spatial lookup.
 
-*Data: GBIF, iNaturalist, Denver Open Data Catalog (parcels, 311), Colorado Department of Agriculture. Analysis code and raw pulls available on request; public repo to follow.*
+*Data: GBIF, iNaturalist, Denver Open Data Catalog (parcels, 311), Colorado Department of Agriculture. Analysis code and neighborhood aggregates: https://github.com/adowlen/denver-tree-of-heaven-data-brief*
+
+*Correction (2026-10-08): an earlier version described tree of heaven as Watch List–only. CDA's current official list places it on List C; the policy section has been updated.*

@@ -1,6 +1,6 @@
 # Denver's Tree-of-Heaven Problem: A Data Brief
 
-*What 731 citizen-science observations, 5,580 city complaints, and the parcel map say about an invasive tree — and why Colorado should list it as a noxious weed.*
+*What 731 citizen-science observations, 5,580 city complaints, and the parcel map say about an invasive tree — and why Colorado should upgrade it from List C to List B.*
 
 Full brief: [brief/tree-of-heaven-denver-brief.md](brief/tree-of-heaven-denver-brief.md)
 
@@ -12,7 +12,7 @@ Full brief: [brief/tree-of-heaven-denver-brief.md](brief/tree-of-heaven-denver-b
 
 **3. The city doesn't close weed complaints.** 75% of 4,173 "Weeds/Vegetation Violation" 311 cases were never closed (vs. 3% for fallen trees). Worst: Harvey Park (93% open); best: Belcaro (48%) — a stark southwest/southeast gradient.
 
-**4. The case for listing.** Tree of heaven sits on Colorado's official Watch List — the state flags the threat and requires nothing. Eight states list it as a noxious weed. A Colorado List B designation would trigger mandatory control on all private lands, with county abatement, property liens, and fines. Spotted lanternfly (whose preferred host is tree of heaven, per the state ag department) is confirmed in Iowa and Illinois — not yet Colorado.
+**4. The case for a stronger listing.** Tree of heaven sits on Colorado's **List C** — the weakest regulatory tier: control recommended, required of no one, and ineligible for state weed grants on its own. Eight states list it as a noxious weed. A Colorado List B designation would trigger mandatory control on all private lands, with county abatement, property liens, and fines — or Denver could require List C management locally without waiting for the state. Spotted lanternfly (whose preferred host is tree of heaven, per the state ag department) is confirmed in Iowa and Illinois — not yet Colorado.
 
 ## Contents
 
