@@ -29,3 +29,11 @@ The point-level pull is fully scripted: GBIF (`api.gbif.org`) + iNaturalist (`ap
 ## Caveats
 
 Presence-only citizen-science data with heavy observer bias; time trends conflate observer effort with spread; 311 "open" means no close date recorded. See the brief for the full methods section.
+
+## Methods and data
+
+The documented source pulls and parcel join are summarized under Reproduce it. The analysis pipeline is in [code/analyze.py](code/analyze.py), neighborhood-level aggregate outputs are in [data/](data/), and source documentation is in [notes/denver_data_sources.md](notes/denver_data_sources.md) and [notes/occurrence_sources.md](notes/occurrence_sources.md). The [full brief](brief/tree-of-heaven-denver-brief.md) contains the full methods section and caveats.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
